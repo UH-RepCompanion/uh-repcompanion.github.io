@@ -88,26 +88,26 @@ Clicking on the Login link, then on the Sign In menu item displays this page:
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-<img src="doc/register-page.png">
+<img src="doc/register.png">
 
 
 #### Landing (after Login) page, non-Admin user
 
 Once logged in you will be directed into the landing page with a new navbar section called Finder page.
 
-<img src="doc/login-landing-page.png">
+<img src="doc/signedin-landing-page.png">
 
 #### Profile page
 
 After logging in, here is the page that allows you to view and edit your profile.
 
-<img src="doc/add-contact-page.png">
+<img src="doc/profile-page.png">
 
 #### Finder Page
 
 This page allows you to see a group of students who are available for workouts, here you can view their workout for that day and request to join them. You can also filter this page by different workouts and it will only shows students who assigned their workout for that day.
 
-<img src="doc/list-contact-page.png">
+<img src="doc/finder-list.png">
 
 You click the "Edit" link to go to the Edit Contact page, shown next.
 
@@ -122,11 +122,9 @@ In this section admins are able to see all the events listed in the Finder page 
 
 To provide a simple example of a "super power" for Admin users, the Admin page lists all of the Contacts by all of the users:
 
-<img src="doc/admin-list-contact-page.png">
+<img src="doc/admin-finder-page.png">
 
 Note that non-admin users cannot get to this page, even if they type in the URL by hand.
-
-<img src="doc/not-authorized-page.png">
 
 ### Quality Assurance
 
