@@ -2,11 +2,9 @@
 
 <img src="doc/landing-page.png">
 
-Digits is an application that allows users to:
+UH RepCompanion is an application that allows users to:
 
-* Register an account.
-* Create and manage a set of contacts.
-* Add a set of timestamped notes regarding their interactions with each contact.
+* Make an account and connect with other people who need a workout companion
 
 ## Installation
 
@@ -86,7 +84,7 @@ Clicking on the Login link, then on the Sign In menu item displays this page:
 
 #### Register page
 
-Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
+Alternatively, clicking on the Login link, if you dont have an account yet, you can click the register link to make an account:
 
 <img src="doc/register.png">
 
@@ -109,9 +107,6 @@ This page allows you to see a group of students who are available for workouts, 
 
 <img src="doc/finder-page.png">
 
-You click the "Edit" link to go to the Edit Contact page, shown next.
-
-
 #### Filter list
 
 In this section admins are able to see all the events listed in the Finder page and delete events listed in the page.
@@ -120,11 +115,11 @@ In this section admins are able to see all the events listed in the Finder page 
 
 #### Admin page (list all users contact)
 
-To provide a simple example of a "super power" for Admin users, the Admin page lists all of the Contacts by all of the users:
+To provide a simple example of a "super power" for Admin users, the Admin page lists shows all the users and has the authority to remove any accounts:
 
 <img src="doc/admin-finder-page.png">
 
-Note that non-admin users cannot get to this page, even if they type in the URL by hand.
+Note that non-admin users cannot get access to this page.
 
 ### Quality Assurance
 
