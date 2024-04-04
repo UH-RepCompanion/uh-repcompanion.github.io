@@ -12,9 +12,7 @@ UH RepCompanion is an application that allows users to:
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, go to [download a copy of Digits](https://github.com/blakewatanabe/digits).
-
-Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+Second, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 
 ```
 $ meteor npm install
