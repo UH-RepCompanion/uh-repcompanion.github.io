@@ -93,35 +93,28 @@ Alternatively, clicking on the Login link, then on the Sign Up menu item display
 
 #### Landing (after Login) page, non-Admin user
 
-Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
+Once logged in you will be directed into the landing page with a new navbar section called Finder page.
 
 <img src="doc/login-landing-page.png">
 
-You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
+#### Profile page
 
-#### Make Profile page
-
-After logging in, here is the page that allows you to add new Contact:
+After logging in, here is the page that allows you to view and edit your profile.
 
 <img src="doc/add-contact-page.png">
 
-#### List Contact page
+#### Finder Page
 
-After logging in, here is the page that allows you to list all the Contact you have created:
+This page allows you to see a group of students who are available for workouts, here you can view their workout for that day and request to join them. You can also filter this page by different workouts and it will only shows students who assigned their workout for that day.
 
 <img src="doc/list-contact-page.png">
 
 You click the "Edit" link to go to the Edit Contact page, shown next.
 
-#### Edit Contact page
 
-After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
+#### Landing (after Login), Admin Finder
 
-<img src="doc/edit-contact-page.png">
-
-#### Landing (after Login), Admin user
-
-You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
+In this section admins are able to see all the events listed in the Finder page and delete events listed in the page.
 
 <img src="doc/admin-landing-page.png">
 
