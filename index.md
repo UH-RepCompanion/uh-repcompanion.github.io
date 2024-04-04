@@ -107,16 +107,16 @@ After logging in, here is the page that allows you to view and edit your profile
 
 This page allows you to see a group of students who are available for workouts, here you can view their workout for that day and request to join them. You can also filter this page by different workouts and it will only shows students who assigned their workout for that day.
 
-<img src="doc/finder-list.png">
+<img src="doc/finder-page.png">
 
 You click the "Edit" link to go to the Edit Contact page, shown next.
 
 
-#### Landing (after Login), Admin Finder
+#### Filter list
 
 In this section admins are able to see all the events listed in the Finder page and delete events listed in the page.
 
-<img src="doc/admin-landing-page.png">
+<img src="doc/filter-list.png">
 
 #### Admin page (list all users contact)
 
