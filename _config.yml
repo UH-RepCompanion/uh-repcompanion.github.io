@@ -2,6 +2,3 @@ title: UH RepCompanion
 google_analytics:
 show_downloads: true
 theme: jekyll-theme-merlot
-
-gems:
-  - jekyll-mentions
