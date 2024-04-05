@@ -1,12 +1,14 @@
 [Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
 
 <img src="doc/uh-repcompanion-logo.png">
+[UH RepCompanion Github Organization Page](https://github.com/UH-RepCompanion)
 
 <img src="doc/landing-page.png">
 
 UH RepCompanion is an application that allows users to:
 
 * Make an account and connect with other people who need a workout companion
+
 
 ## Installation
 
