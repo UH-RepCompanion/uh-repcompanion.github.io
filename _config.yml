@@ -1,2 +1,8 @@
 title: UH RepCompanion
+description: One stop shop app for University of Hawaii students to find gym companions.
+google_analytics:
+show_downloads: true
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
