@@ -7,6 +7,7 @@
         overflow: hidden;
     }
 </style>
+
 <img src="doc/uh-repcompanion.png" class="rounded-image">
 
 ## GitHub Organization
