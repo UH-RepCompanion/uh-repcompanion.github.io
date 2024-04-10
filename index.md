@@ -88,7 +88,7 @@ Note that non-admin users cannot get access to this page.
 ## Milestones
 
 ### M1
-__(link to M1 Project page here!!!)__
+[Milestone 1 Completion](https://github.com/orgs/UH-RepCompanion/projects/1)
 
 ### M2
 __(link to M2 Project page here!!!)__
