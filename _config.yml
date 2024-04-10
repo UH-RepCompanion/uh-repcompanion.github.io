@@ -2,7 +2,8 @@ title: UH RepCompanion
 description: One stop shop app for University of Hawaii students to find gym companions.
 google_analytics:
 show_downloads: true
-github_repo_url: "https://github.com/UH-RepCompanion/RepCompanion-1"
+button_link: >
+  <a href="https://github.com/UH-RepCompanion/RepCompanion-1" class="btn">View on GitHub</a>
 theme: jekyll-theme-cayman
 
 gems:
