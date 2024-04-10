@@ -1,7 +1,7 @@
 ## Team Contract
 [Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
 
-<img src="doc/uh-repcompanion.png">
+<img src="doc/uh-repcompanion.png" width="250" height="250">
 
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
