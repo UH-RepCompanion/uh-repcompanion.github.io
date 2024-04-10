@@ -1,7 +1,13 @@
 ## Team Contract
 [Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
 
-<img src="doc/uh-repcompanion.png">
+<style>
+    .rounded-image {
+        border-radius: 50%;
+        overflow: hidden;
+    }
+</style>
+<img src="doc/uh-repcompanion.png" class="rounded-image">
 
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
