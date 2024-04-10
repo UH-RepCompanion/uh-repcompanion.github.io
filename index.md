@@ -7,7 +7,9 @@
         overflow: hidden;
     }
 </style>
-<img src="doc/uh-repcompanion.png" class="rounded-image" width="300" height="300">
+<p align="center">
+<img src="doc/uh-repcompanion.png" class="rounded-image" width="400" height="400">
+</p>
 
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
