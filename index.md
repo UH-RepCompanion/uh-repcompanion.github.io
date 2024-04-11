@@ -34,7 +34,7 @@ To access UH RepCompanion, please visit __(link to site here!!!)__
 
 Upon arriving, you will be greeted with the UH RepCompanion landing page, which should look something like this:
 
-<img src="doc/landing-page.png">
+<img src="doc/uh-repcompanion-landing-page.png">
 
 From here, users will be able to either login with a preexisting account or register a new account.
 
@@ -44,46 +44,32 @@ This page also contains a brief overview of what RepCompanion is and how it work
 
 Upon clicking on Login, users will be presented with a page where they can sign in using their UH email:
 
-<img src="doc/login-page.png">
+<img src="doc/uh-repcompanion-login-page.png">
 
 ### Register Page
 
 Alternatively if a user is new to the application, users can click on Register, which will direct them to a page where they can sign up and enter some basic info for their profile:
 
-<img src="doc/register.png">
+<img src="doc/uh-repcompanion-register-page.png">
 
 
 ### Home Page (Logged In)
 
 Once logged in, you will be directed to the home page and within the navbar you will be able to see links for an Add Event page and a Finder page.
 
-<img src="doc/signedin-landing-page.png">
+<img src="doc/uh-repcompanion-home-page.png">
 
 ### Profile Page
 
 When logged in, you can navigate to the Profile page in the top left dropwdown menu or on the home page, which will allow you to view and edit your profile for the application.
 
-<img src="doc/profile-page.png">
+<img src="doc/uh-repcompanion-profile-page.png">
 
 ### Finder Page
 
-This page allows you to see a group of students who are available for workouts, here you can view their workout for that day and request to join them. You can also filter this page by different workouts and it will only shows students who assigned their workout for that day.
+This page allows users to filter through other users profiles based on search fields related to their interests in workouts. This page will also other aspects of other user's profiles such as their experience when it comes to working out (labeled as "Level"), an activity bar to show how active they are with their routine, and the option to contact that user:
 
-<img src="doc/finder-page.png">
-
-### Filter Page
-
-This page allows users to filter through other users profiles based on search fields:
-
-<img src="doc/filter-list.png">
-
-### Admin page (List All Users)
-
-This application also contains admin supervision. To provide a simple example of a "super power" for Admin users, the Admin page lists shows all the users and has the authority to remove any accounts:
-
-<img src="doc/admin-finder-page.png">
-
-Note that non-admin users cannot get access to this page.
+<img src="doc/uh-repcompanion-filter-page.png">
 
 ## Milestones
 
