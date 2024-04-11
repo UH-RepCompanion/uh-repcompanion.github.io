@@ -1,4 +1,3 @@
-## Team Contract
 [Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
 
 <style>
@@ -8,7 +7,9 @@
     }
 </style>
 
-<img src="doc/uh-repcompanion.png" class="rounded-image">
+<p align="center">
+<img src="doc/uh-repcompanion.png" class="rounded-image" width="400" height="400">
+</p>
 
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
@@ -76,7 +77,7 @@ This page allows users to filter through other users profiles based on search fi
 
 <img src="doc/filter-list.png">
 
-### Admin page (List All Users Contact)
+### Admin page (List All Users)
 
 This application also contains admin supervision. To provide a simple example of a "super power" for Admin users, the Admin page lists shows all the users and has the authority to remove any accounts:
 
@@ -87,7 +88,7 @@ Note that non-admin users cannot get access to this page.
 ## Milestones
 
 ### M1
-__(link to M1 Project page here!!!)__
+[Milestone 1 Completion](https://github.com/orgs/UH-RepCompanion/projects/1)
 
 ### M2
 __(link to M2 Project page here!!!)__
