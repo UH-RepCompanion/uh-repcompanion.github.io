@@ -35,8 +35,9 @@ To access UH RepCompanion, please visit [this site.](http://143.244.188.6/)
 
 In order to explore the page using an account made for testing purposes, please use these login credentials:
 
-Email: test@hawaii.edu
-Password: changeme
+__Email:__ test@hawaii.edu
+
+__Password:__ changeme
 
 ### Landing Page
 
