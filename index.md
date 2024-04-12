@@ -38,7 +38,7 @@ Upon arriving, you will be greeted with the UH RepCompanion landing page, which 
 
 From here, users will be able to either login with a preexisting account or register a new account.
 
-This page also contains a brief overview of what RepCompanion is and how it works. More information about the application can also be found on the About page.
+This page also contains a brief overview of what RepCompanion is and how it works. More information about the application can also be found on the About Us page.
 
 ### Login Page
 
@@ -61,15 +61,17 @@ Once logged in, you will be directed to the home page and within the navbar you 
 
 ### Profile Page
 
-When logged in, you can navigate to the Profile page in the top left dropwdown menu or on the home page, which will allow you to view and edit your profile for the application.
+When logged in, you can navigate to the Profile page in the top left dropdown menu or on the home page, which will allow you to view and edit your profile for the application.
 
 <img src="doc/uh-repcompanion-profile-page.png">
 
 ### Finder Page
 
-This page allows users to filter through other users profiles based on search fields related to their interests in workouts. This page will also other aspects of other user's profiles such as their experience when it comes to working out (labeled as "Level"), an activity bar to show how active they are with their routine, and the option to contact that user:
+The Finder page allows users to filter through other users profiles based on search fields related to their interests in workouts. This page will also display other aspects of user's profiles such as their experience when it comes to working out (labeled as "Level"), an activity bar to show how active they are with their routine, and the option to contact that user:
 
 <img src="doc/uh-repcompanion-filter-page.png">
+
+### _(Further updates coming soon)_
 
 ## Milestones
 
