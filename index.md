@@ -55,13 +55,13 @@ Alternatively if a user is new to the application, users can click on Register, 
 
 ### Home Page (Logged In)
 
-Once logged in, you will be directed to the home page and within the navbar you will be able to see links for an Add Event page and a Finder page.
+Once logged in, you will be directed to the home page and within the navbar you will be able to see links for an Add Event page, a Finder page, and the About Us page.
 
 <img src="doc/uh-repcompanion-home-page.png">
 
 ### Profile Page
 
-When logged in, you can navigate to the Profile page in the top left dropdown menu or on the home page, which will allow you to view and edit your profile for the application.
+When logged in, you can navigate to the Profile page in the top left dropdown menu which will allow you to view and edit your profile for the application.
 
 <img src="doc/uh-repcompanion-profile-page.png">
 
@@ -79,4 +79,4 @@ The Finder page allows users to filter through other users profiles based on sea
 [Milestone 1 Completion](https://github.com/orgs/UH-RepCompanion/projects/1)
 
 ### M2
-__(link to M2 Project page here!!!)__
+[Milestone 2 _In Progress_](https://github.com/orgs/UH-RepCompanion/projects/9/views/1)
