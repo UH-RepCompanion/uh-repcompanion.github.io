@@ -1,6 +1,3 @@
-** This Text is Bold ** 
-[Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
-
 <style>
     .rounded-image {
         border-radius: 50%;
@@ -81,3 +78,6 @@ The Finder page allows users to filter through other users profiles based on sea
 
 ### M2
 [Milestone 2 _In Progress_](https://github.com/orgs/UH-RepCompanion/projects/9/views/1)
+
+## Team 
+[Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
