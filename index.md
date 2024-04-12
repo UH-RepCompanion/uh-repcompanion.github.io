@@ -22,7 +22,10 @@ UH RepCompanion is an application that allows users to:
 
 ## Overview
 
-The following sections describe the major features of the UH RepCompanion application.
+The problem: Many students struggle to maintain a consistent gym routine due to lack of motivation, accountability, and confidence. Additionally, finding a compatible workout partner with similar fitness goals and schedules can be challenging, leading to missed opportunities for support and encouragement during workouts.
+
+The solution: RepCompanion is designed to connect students seeking gym partners. By matching users based on fitness goals, interests, availability, and preferred workout styles, RepCompanion helps students overcome shyness and build confidence while providing motivation and accountability to stick to their fitness routines. With RepCompanion, students can find compatible workout buddies who can push them to achieve their fitness goals, try new exercises, and stay committed to their health and wellness journey.
+
 
 ### Deployment
 
