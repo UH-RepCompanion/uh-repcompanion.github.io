@@ -12,13 +12,14 @@
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
 
-<img src="doc/uh-gym.jpeg">
 
 UH RepCompanion is an application that allows users to:
 
 * Make an account and connect with other people who need a workout companion
 * Keep track of their workout routines and schedules
 * Socialize with other students on campus
+
+<img src="doc/uh-gym.jpeg">
 
 ## Overview
 
