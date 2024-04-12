@@ -9,21 +9,6 @@
 <img src="doc/uh-repcompanion.png" class="rounded-image" width="400" height="400">
 </p>
 
-<div id="table-of-contents">
-    ## Table of Contents
-    - [GitHub Organization](#organization)
-    - [Overview](#overview)
-    - [Deployment](#deployment)
-    - [Landing Page](#landing-page)
-    - [Login Page](#login-page)
-    - [Register Page](#register-page)
-    - [Home Page (Logged In)](#home-page)
-    - [Profile Page](#profile-page)
-    - [Finder Page](#finder-page)
-    - [Milestones](#milestones)
-    - [Team](#team)
-</div>
-
 
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
