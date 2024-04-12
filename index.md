@@ -28,7 +28,7 @@ The following sections describe the major features of the UH RepCompanion applic
 
 ### Deployment
 
-To access UH RepCompanion, please visit __(link to site here!!!)__
+To access UH RepCompanion, please visit [this site.](http://164.92.122.252/)
 
 ### Landing Page
 
