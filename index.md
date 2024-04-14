@@ -33,12 +33,6 @@ The solution: RepCompanion is designed to connect students seeking gym partners.
 
 To access UH RepCompanion, please visit [this site.](http://143.244.188.6/)
 
-In order to explore the page using an account made for testing purposes, please use these login credentials:
-
-__Email:__ test@hawaii.edu
-
-__Password:__ changeme
-
 ### Landing Page
 
 Upon arriving, you will be greeted with the UH RepCompanion landing page, which should look something like this:
