@@ -35,7 +35,7 @@ To access UH RepCompanion, please visit [this site.](http://143.244.188.6/)
 
 ### User Guide
 
-_Put transtion sentence to walkthrough here_
+This walkthrough will guide new users on how to navigate UH Repcompanion, what users can do within the application, and the different features that each page has.
 
 ### Landing Page
 
