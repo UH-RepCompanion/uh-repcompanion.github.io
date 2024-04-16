@@ -33,6 +33,10 @@ The solution: RepCompanion is designed to connect students seeking gym partners.
 
 To access UH RepCompanion, please visit [this site.](http://143.244.188.6/)
 
+### User Guide
+
+_Put transtion sentence to walkthrough here_
+
 ### Landing Page
 
 Upon arriving, you will be greeted with the UH RepCompanion landing page, which should look something like this:
@@ -74,7 +78,9 @@ The Finder page allows users to filter through other users profiles based on sea
 
 <img src="doc/uh-repcompanion-filter-page.png">
 
-### _(Further updates coming soon)_
+### Developer Guide
+
+_Put developer guide stuff here_
 
 ## Milestones
 
@@ -83,6 +89,9 @@ The Finder page allows users to filter through other users profiles based on sea
 
 ### M2
 [Milestone 2 _In Progress_](https://github.com/orgs/UH-RepCompanion/projects/9/views/1)
+
+### M3
+[Milestone 3 _In Development_] (_link here_)
 
 ## Team 
 [Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
