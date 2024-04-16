@@ -89,8 +89,8 @@ The Finder page allows users to filter through other users profiles based on sea
 
 ### Members
 
-* 
-* 
-* 
-* 
-* 
+* __Blake__ - 
+* __Brandon__ - 
+* __Veronica__ - 
+* __Justin__ - 
+* __Anthony__ - 
