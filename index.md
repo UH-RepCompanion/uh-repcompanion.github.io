@@ -31,7 +31,7 @@ The solution: RepCompanion is designed to connect students seeking gym partners.
 
 ### Deployment
 
-To access UH RepCompanion, please visit [this site.](http://143.244.188.6/)
+To access UH RepCompanion, please visit [uhrepcompanion.site](https://uhrepcompanion.site/)
 
 ### User Guide
 
