@@ -13,6 +13,8 @@
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
 
+[![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
+
 
 UH RepCompanion is an application that allows users to:
 
