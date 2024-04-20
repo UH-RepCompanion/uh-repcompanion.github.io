@@ -102,4 +102,4 @@ _Put developer guide stuff here_
 * __Brandon__ - 
 * __Veronica__ - 
 * __Justin__ - 
-* __Anthony__ - 
+* __Anthony__ - Information & Computer Sciences B.A. track, hoping to pursue a career in software engineering and game design/development
