@@ -96,6 +96,8 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 $ meteor npm install
 ```
 
+Finally, install MongoDB by visiting [https://www.mongodb.com/docs/manual/installation/](https://www.mongodb.com/docs/manual/installation/)
+
 ### Running UH RepCompanion
 
 Once the libraries are installed, make sure you are still within the app/directory, then run the application by invoking:
@@ -109,26 +111,26 @@ The first time you run the app, it will create some default users and data. Here
 ```
  meteor npm run start 
 
-> meteor-application-template-react@ start /Users/carletonmoore/GitHub/ICS314/meteor-application-template-react/app
+> meteor-application-template-react@ start /Users/t/Documents/GitHub/RepCompanion-1/app
 > meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
 
-[[[[[ ~/GitHub/ICS314/meteor-application-template-react/app ]]]]]
+[[[[[ ~/Documents/GitHub/RepCompanion-1/app ]]]]]
 
 => Started proxy.                             
 => Started HMR server.                        
 => Started MongoDB.                           
-I20220529-12:09:18.384(-10)? Creating the default user(s)
-I20220529-12:09:18.389(-10)?   Creating user admin@foo.com.
-I20220529-12:09:18.453(-10)?   Creating user john@foo.com.
-I20220529-12:09:18.515(-10)? Creating default data.
-I20220529-12:09:18.515(-10)?   Adding: Basket (john@foo.com)
-I20220529-12:09:18.599(-10)?   Adding: Bicycle (john@foo.com)
-I20220529-12:09:18.600(-10)?   Adding: Banana (admin@foo.com)
-I20220529-12:09:18.601(-10)?   Adding: Boogie Board (admin@foo.com)
-I20220529-12:09:18.773(-10)? Monti APM: completed instrumenting the app
+I20240421-14:13:59.686(-10)? Creating the default profiles
+I20240421-14:13:59.698(-10)? Defining profile johnson@hawaii.edu
+I20240421-14:14:02.886(-10)? Defining profile henric@hawaii.edu
+I20240421-14:14:03.076(-10)? Defining profile cmoore@hawaii.edu
+I20240421-14:14:03.187(-10)? Defining profile achriste@hawaii.edu
+I20240421-14:14:03.459(-10)? Defining profile leighj@hawaii.edu
+I20240421-14:14:03.735(-10)? Defining profile sin8@hawaii.edu
 => Started your app.
 
 => App running at: http://localhost:3000/
+I20240421-14:14:04.558(-10)? Monti APM: Connected
+
 ```
 
 ### Viewing the aplication
