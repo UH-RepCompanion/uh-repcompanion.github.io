@@ -136,6 +136,16 @@ I20240421-14:14:04.558(-10)? Monti APM: Connected
 
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/UH-RepCompanion/RepCompanion-1/blob/main/config/settings.development.json), or else register a new account.
 
+### Modifying the application
+
+If you wish to make stylistic modifications to the application, navigate to the app/client/ directory where you will find the style.css file. Within the app directory, you can find imports directory containg three sub-folders: api, startup, ui. 
+
+The api folder contains folders with the basis for each collection, the sstartup folder which displays these collections upon the running of the app, and the ui which contains the components, pages, utilities, and layout of the application. 
+
+The public directory contains the images for the application and the tests folder contains tests to run for each page if you wish to implement TestCafe into your work. Finally, you can find the default data for the application within the config directory. 
+
+The application itself relies upon JSX, js, HTML, and CSS.
+
 ## Milestones
 
 ### M1
