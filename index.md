@@ -130,7 +130,6 @@ I20240421-14:14:03.735(-10)? Defining profile sin8@hawaii.edu
 
 => App running at: http://localhost:3000/
 I20240421-14:14:04.558(-10)? Monti APM: Connected
-
 ```
 
 ### Viewing the aplication
