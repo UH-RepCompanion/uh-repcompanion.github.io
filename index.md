@@ -163,7 +163,72 @@ The application itself relies upon JSX, js, HTML, and CSS.
 ### Members
 
 * __Blake__ - 
-* __Brandon__ - 
+* __Brandon__ -
+* I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I am hoping to pursue a career as a full-stack engineer.
 * __Veronica__ - 
 * __Justin__ - 
 * __Anthony__ - Information & Computer Sciences B.A. track, hoping to pursue a career in software engineering and game design/development
+
+<div class="container pt-5">
+  <div class="row">
+    <h2 class="px-1">Members</h2>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="https://avatars.githubusercontent.com/u/156987697?v=4/" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-text">I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I am hoping to pursue a career as a full-stack engineer.</h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-text"></h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-text">Women's Fleece</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row pt-2">
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-text">Men's Fleece</h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-text">Women's Jackets</h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-text">Men's Jackets</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
