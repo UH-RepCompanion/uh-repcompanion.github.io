@@ -163,10 +163,9 @@ The application itself relies upon JSX, js, HTML, and CSS.
 ### Members
 
 * __Blake__ - 
-* __Brandon__ - <img src="https://avatars.githubusercontent.com/u/156987697?v=4" width="200">
-I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I am hoping to pursue a career as a full-stack engineer.
+* __Brandon Nelson__ - I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I am hoping to pursue a career as a full-stack engineer.
 
 * __Veronica__ - 
 * __Justin__ - 
-* __Anthony__ - Information & Computer Sciences B.A. track, hoping to pursue a career in software engineering and game design/development
+* __Anthony A. Tirabassi__ - Information & Computer Sciences B.A. track, hoping to pursue a career in software engineering and game design/development
 
