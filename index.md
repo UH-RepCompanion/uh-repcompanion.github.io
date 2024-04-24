@@ -149,13 +149,13 @@ The application itself relies upon JSX, js, HTML, and CSS.
 ## Milestones
 
 ### M1
-[Milestone 1 Completion](https://github.com/orgs/UH-RepCompanion/projects/1)
+[Milestone 1 - Completion](https://github.com/orgs/UH-RepCompanion/projects/1)
 
 ### M2
-[Milestone 2 Completion](https://github.com/orgs/UH-RepCompanion/projects/9/views/1)
+[Milestone 2 - Completion](https://github.com/orgs/UH-RepCompanion/projects/9/views/1)
 
 ### M3
-[Milestone 3 _In Progress_](https://github.com/orgs/UH-RepCompanion/projects/17)
+[Milestone 3 - _In Progress_](https://github.com/orgs/UH-RepCompanion/projects/17)
 
 ## Team 
 [Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
