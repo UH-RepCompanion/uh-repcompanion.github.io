@@ -162,7 +162,7 @@ The application itself relies upon JSX, js, HTML, and CSS.
 
 ### Members
 
-* __Blake__ - I am currently a junior (about to be senior!) at UH Manoa and pursuing a Bachelor of Arts in Information & Computer Science with a focus on cyber security and software development. With my last 3 semesters at UH, I hope to gain many experiences that can help with my future career in the tech industry. [**Github Portfolio:**](https://blakewatanabe.github.io)
+* __Blake__ - I am currently a junior (about to be senior!) at UH Manoa and pursuing a Bachelor of Arts in Information & Computer Science with a focus on cyber security and software development. With my last 3 semesters at UH, I hope to gain many experiences that can help with my future career in the tech industry. Here's my [**Github Portfolio**](https://blakewatanabe.github.io)
 * __Brandon Nelson__ - I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. I am hoping to pursue a career as a full-stack engineer.
 
 * __Veronica__ - 
