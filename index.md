@@ -41,7 +41,7 @@ This walkthrough will guide new users on how to navigate UH Repcompanion, what u
 
 ### Landing Page
 
-Upon arriving, you will be greeted with the UH RepCompanion landing page, which should look something like this:
+Upon arriving, you will be greeted with the UH RepCompanion landing page, which details what UH RepCompanion is, which should look something like this:
 
 <img src="doc/UH-RepCompanion-2.png">
 
@@ -64,13 +64,13 @@ Alternatively if a user is new to the application, users can click on Register, 
 
 ### Home Page (Logged In)
 
-Once logged in, you will be directed to the home page and within the navbar you will be able to see links for an Add Event page, a Finder page, and the About Us page.
+Once logged in, you will be directed to the home page and within the navbar you will be able to see links for the Event page, the Finder page, and the About Us page.
 
 <img src="doc/UH-RepCompanion-5.png">
 
 ### Profile Page
 
-When logged in, you can navigate to the Profile page in the top left dropdown menu which will allow you to view and edit your profile for the application.
+When logged in, you can navigate to the Profile page in the top left dropdown menu which will allow you to view and edit your profile for the application. User profiles contain the user's RepCompanion information, social links, and a weekly calendar that allows the user to keep track of their personal routines.
 
 <img src="doc/UH-RepCompanion-6.png">
 
@@ -80,15 +80,15 @@ The Finder page allows users to filter through other users profiles based on sea
 
 <img src="doc/UH-RepCompanion-7.png">
 
-### Events Page
+### Event Page
 
-The Events Page allows users to view any upcoming workout events made by other UH RepCompanion users. The event will include what equipment will be used during the workout, a short description of the workout itself, when the event will be occurring, and when the event was created.
+The Event Page allows users to view any upcoming workout events made by other UH RepCompanion users. The event will include what equipment will be used during the workout, a short description of the workout itself, when the event will be occurring, and when the event was created.
 
 <img src="doc/UH-RepCompanion-8.png">
 
 ### Add Event Page
 
-The Add Event lets users add events to the Events Page. To create an event, enter the date for the workout event, a description of the workout, and what equipment will be incorporated into the workout.
+The Add Event can be found within a dropdown menu from the Event tab located within the navbar, letting users add events to the Event Page. To create an event, enter the date for the workout event, a description of the workout, and what equipment will be incorporated into the workout.
 
 <img src="doc/UH-RepCompanion-9.png">
 
