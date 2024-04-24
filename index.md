@@ -43,7 +43,7 @@ This walkthrough will guide new users on how to navigate UH Repcompanion, what u
 
 Upon arriving, you will be greeted with the UH RepCompanion landing page, which should look something like this:
 
-<img src="doc/uh-repcompanion-landing-page.png">
+<img src="doc/UH-RepCompanion-2.png">
 
 From here, users will be able to either login with a preexisting account or register a new account.
 
@@ -53,32 +53,44 @@ This page also contains a brief overview of what RepCompanion is and how it work
 
 Upon clicking on Login, users will be presented with a page where they can sign in using their UH email:
 
-<img src="doc/uh-repcompanion-login-page.png">
+<img src="doc/UH-RepCompanion-3.png">
 
 ### Register Page
 
 Alternatively if a user is new to the application, users can click on Register, which will direct them to a page where they can sign up and enter some basic info for their profile:
 
-<img src="doc/uh-repcompanion-register-page.png">
+<img src="doc/UH-RepCompanion-4.png">
 
 
 ### Home Page (Logged In)
 
 Once logged in, you will be directed to the home page and within the navbar you will be able to see links for an Add Event page, a Finder page, and the About Us page.
 
-<img src="doc/uh-repcompanion-home-page.png">
+<img src="doc/UH-RepCompanion-5.png">
 
 ### Profile Page
 
 When logged in, you can navigate to the Profile page in the top left dropdown menu which will allow you to view and edit your profile for the application.
 
-<img src="doc/uh-repcompanion-profile-page.png">
+<img src="doc/UH-RepCompanion-6.png">
 
 ### Finder Page
 
 The Finder page allows users to filter through other users profiles based on search fields related to their interests in workouts. This page will also display other aspects of user's profiles such as their experience when it comes to working out (labeled as "Level"), an activity bar to show how active they are with their routine, and the option to contact that user:
 
-<img src="doc/uh-repcompanion-filter-page.png">
+<img src="doc/UH-RepCompanion-7.png">
+
+### Events Page
+
+The Events Page allows users to view any upcoming workout events made by other UH RepCompanion users. The event will include what equipment will be used during the workout, a short description of the workout itself, when the event will be occurring, and when the event was created.
+
+<img src="doc/UH-RepCompanion-8.png">
+
+### Add Event Page
+
+The Add Event lets users add events to the Events Page. To create an event, enter the date for the workout event, a description of the workout, and what equipment will be incorporated into the workout.
+
+<img src="doc/UH-RepCompanion-9.png">
 
 ### Developer Guide
 
