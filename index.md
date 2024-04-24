@@ -155,7 +155,7 @@ The application itself relies upon JSX, js, HTML, and CSS.
 [Milestone 2 Completion](https://github.com/orgs/UH-RepCompanion/projects/9/views/1)
 
 ### M3
-[Milestone 3 _In Development_](https://github.com/orgs/UH-RepCompanion/projects/17/)
+[Milestone 3 _In Progress_](https://github.com/orgs/UH-RepCompanion/projects/17)
 
 ## Team 
 [Contract Link](https://docs.google.com/document/d/1tp4QYSD7dfjYHTd03d5IHFc6_XyA9PcVLbLC0lbu9PU/edit)
@@ -167,5 +167,5 @@ The application itself relies upon JSX, js, HTML, and CSS.
 
 * __Veronica__ - 
 * __Justin__ - 
-* __Anthony A. Tirabassi__ - Information & Computer Sciences B.A. track, hoping to pursue a career in software engineering and game design/development
+* __Anthony A. Tirabassi__ - Currently pursuing a degree in Information & Computer Sciences B.A. track, and hoping to pursue a career in software engineering and game design/development. **Github Portfolio:** [https://t-tirabassi.github.io/](https://t-tirabassi.github.io/)
 
