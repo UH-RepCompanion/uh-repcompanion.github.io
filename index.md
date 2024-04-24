@@ -167,5 +167,5 @@ The application itself relies upon JSX, js, HTML, and CSS.
 
 * __Veronica__ - 
 * __Justin__ - 
-* __Anthony A. Tirabassi__ - Currently pursuing a degree in Information & Computer Sciences B.A. track, and hoping to pursue a career in software engineering and game design/development. **Github Portfolio:** [https://t-tirabassi.github.io/](https://t-tirabassi.github.io/)
+* __Anthony A. Tirabassi__ - I am currently pursuing a Bachelors of Arts in Information & Computer Sciences. I am hoping to pursue a career in software engineering and game design/development. You can view my **Github Portfolio** by visiting [https://t-tirabassi.github.io/](https://t-tirabassi.github.io/).
 
