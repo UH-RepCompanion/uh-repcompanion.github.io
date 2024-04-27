@@ -92,6 +92,10 @@ The Add Event can be found within a dropdown menu from the Event tab located wit
 
 <img src="doc/UH-RepCompanion-9.png">
 
+### Community Feedback
+
+*summarized feedback findings from 5 UH students here*
+
 ### Developer Guide
 
 ### Installation
