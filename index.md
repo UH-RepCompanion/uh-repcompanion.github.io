@@ -94,7 +94,16 @@ The Add Event can be found within a dropdown menu from the Event tab located wit
 
 ### Community Feedback
 
-*summarized feedback findings from 5 UH students here*
+#### Ratings:
+★☆☆☆☆ (1 out of 5 stars)
+
+★★☆☆☆ (2 out of 5 stars)
+
+★★★☆☆ (3 out of 5 stars)
+
+★★★★☆ (4 out of 5 stars)
+
+★★★★★ (5 out of 5 stars)
 
 ### Developer Guide
 
