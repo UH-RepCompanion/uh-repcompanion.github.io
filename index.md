@@ -106,7 +106,7 @@ The Add Event can be found within a dropdown menu from the Event tab located wit
 <span style="color: gold;">★★★★★</span> (5 out of 5 stars)
 
 
-__<img src="https://media.licdn.com/dms/image/D5603AQHy5R-OrgGV-A/profile-displayphoto-shrink_400_400/0/1669102719860?e=1720656000&v=beta&t=NKa2_DCIYuhGfRKuY6jsB_rHcqNfpBVZ6C_Vi99HpbU" class="rounded" width="18" height="18">
+__<img src="https://media.licdn.com/dms/image/D5603AQHy5R-OrgGV-A/profile-displayphoto-shrink_400_400/0/1669102719860?e=1720656000&v=beta&t=NKa2_DCIYuhGfRKuY6jsB_rHcqNfpBVZ6C_Vi99HpbU" class="rounded" width="15" height="15">
 Raymond Mapa - <span style="color: gold;">★★★★★</span>__
 
 "Very user-friendly and visually pleasing to use. I didn't encounter any issues when using the site and can see its future potential. It might be helpful to also allow users the option to change their account password."
