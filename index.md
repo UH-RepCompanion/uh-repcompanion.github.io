@@ -95,15 +95,15 @@ The Add Event can be found within a dropdown menu from the Event tab located wit
 ### Community Feedback
 
 #### Ratings:
-★☆☆☆☆ (1 out of 5 stars)
+<span style="color: gold;">★☆☆☆☆</span> (1 out of 5 stars)
 
-★★☆☆☆ (2 out of 5 stars)
+<span style="color: gold;">★★☆☆☆</span> (2 out of 5 stars)
 
-★★★☆☆ (3 out of 5 stars)
+<span style="color: gold;">★★★☆☆</span> (3 out of 5 stars)
 
-★★★★☆ (4 out of 5 stars)
+<span style="color: gold;">★★★★☆</span> (4 out of 5 stars)
 
-★★★★★ (5 out of 5 stars)
+<span style="color: gold;">★★★★★</span> (5 out of 5 stars)
 
 
 __<img src="https://media.licdn.com/dms/image/D5603AQHy5R-OrgGV-A/profile-displayphoto-shrink_400_400/0/1669102719860?e=1720656000&v=beta&t=NKa2_DCIYuhGfRKuY6jsB_rHcqNfpBVZ6C_Vi99HpbU" class="rounded" width="13" height="13">
