@@ -111,6 +111,11 @@ Raymond Mapa - <span style="color: gold;">★★★★★</span>__
 
 "Very user-friendly and visually pleasing to use. I didn't encounter any issues when using the site and can see its future potential. It might be helpful to also allow users the option to change their account password."
 
+__<img src="https://64.media.tumblr.com/2bfbf93138a0bba37e648fb9cd5a7bca/c7da08e5430f04f1-ae/s540x810/4e26e49d14b1063dba4adf79b48ff30fb996d9a3.jpg" border-radius="50%" width="15" height="15">
+Nathan Bueno - <span style="color: gold;">★★★★☆</span>__
+
+"UH RepCompanion was easy to use and seems helpful for students. I think that there should be a messaging feature for students to chat with one another through the site."
+
 ### Developer Guide
 
 ### Installation
