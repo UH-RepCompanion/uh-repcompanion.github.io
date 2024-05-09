@@ -102,26 +102,31 @@ The Add Event can be found within a dropdown menu from the Event tab located wit
 ### Community Feedback
 
 ### Ratings:
-<span style="color: gold;">★☆☆☆☆</span> (1 out of 5 stars)
-
-<span style="color: gold;">★★☆☆☆</span> (2 out of 5 stars)
-
-<span style="color: gold;">★★★☆☆</span> (3 out of 5 stars)
-
-<span style="color: gold;">★★★★☆</span> (4 out of 5 stars)
-
-<span style="color: gold;">★★★★★</span> (5 out of 5 stars)
-
 
 __<img src="https://media.licdn.com/dms/image/D5603AQHy5R-OrgGV-A/profile-displayphoto-shrink_400_400/0/1669102719860?e=1720656000&v=beta&t=NKa2_DCIYuhGfRKuY6jsB_rHcqNfpBVZ6C_Vi99HpbU" border-radius="50%" width="15" height="15">
 Raymond Mapa - <span style="color: gold;">★★★★★</span>__
 
 "Very user-friendly and visually pleasing to use. I didn't encounter any issues when using the site and can see its future potential. It might be helpful to also allow users the option to change their account password."
 
+__<img src="doc/euniceohpfp.jpeg" border-radius="50%" width="15" height="15">
+Eunice Oh - <span style="color: gold;">★★★★★</span>__
+
+"I was skeptical at first but this app seems like a good way to meet new people and make new friends."
+
+__<img src="doc/nicholasconnor.jpeg" border-radius="50%" width="15" height="15">
+Nicholas Connor - <span style="color: gold;">★★★★★</span>__
+
+"I was skeptical at first but this app seems like a good way to meet new people and make new friends."
+
 __<img src="https://64.media.tumblr.com/2bfbf93138a0bba37e648fb9cd5a7bca/c7da08e5430f04f1-ae/s540x810/4e26e49d14b1063dba4adf79b48ff30fb996d9a3.jpg" border-radius="50%" width="15" height="15">
 Nathan Bueno - <span style="color: gold;">★★★★☆</span>__
 
 "UH RepCompanion was easy to use and seems helpful for students. I think that there should be a messaging feature for students to chat with one another through the site."
+
+__<img src="doc/brett-watanabe.jpg" border-radius="50%" width="15" height="15">
+Brett Watanabe - <span style="color: gold;">★★★★☆</span>__
+
+"It's a good start and seems like a good way to get to meet others going to the gym. If anything i would like to be able favorite or add people who i really get along with."
 
 ### Developer Guide
 
