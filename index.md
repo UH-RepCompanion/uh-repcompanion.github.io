@@ -101,8 +101,6 @@ The Add Event can be found within a dropdown menu from the Event tab located wit
 
 ### Community Feedback
 
-### Ratings:
-
 __<img src="https://media.licdn.com/dms/image/D5603AQHy5R-OrgGV-A/profile-displayphoto-shrink_400_400/0/1669102719860?e=1720656000&v=beta&t=NKa2_DCIYuhGfRKuY6jsB_rHcqNfpBVZ6C_Vi99HpbU" border-radius="50%" width="15" height="15">
 Raymond Mapa - <span style="color: gold;">★★★★★</span>__
 
