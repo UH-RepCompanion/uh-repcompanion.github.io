@@ -116,7 +116,7 @@ Eunice Oh - <span style="color: gold;">★★★★★</span>__
 __<img src="doc/nicholasconnor.jpeg" border-radius="50%" width="15" height="15">
 Nicholas Connor - <span style="color: gold;">★★★★★</span>__
 
-"I was skeptical at first but this app seems like a good way to meet new people and make new friends."
+"As someone who goes to the gym alone i think this gym buddy app is a really good way to connect with other students!"
 
 __<img src="https://64.media.tumblr.com/2bfbf93138a0bba37e648fb9cd5a7bca/c7da08e5430f04f1-ae/s540x810/4e26e49d14b1063dba4adf79b48ff30fb996d9a3.jpg" border-radius="50%" width="15" height="15">
 Nathan Bueno - <span style="color: gold;">★★★★☆</span>__
