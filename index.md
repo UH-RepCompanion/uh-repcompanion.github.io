@@ -91,7 +91,7 @@ The Finder page allows users to filter through other users profiles based on sea
 
 The Event Page allows users to view any upcoming workout events made by other UH RepCompanion users. The event will include what equipment will be used during the workout, a short description of the workout itself, when the event will be occurring, and when the event was created.
 
-<img src="doc/UH-RepCompanion-8.png">
+<img src="doc/UH-RepCompanion-21.png">
 
 ### Add Event Page
 
