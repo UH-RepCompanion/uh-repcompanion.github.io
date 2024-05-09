@@ -13,7 +13,7 @@
 ## GitHub Organization
 [UH RepCompanion GitHub Organization](https://github.com/UH-RepCompanion)
 
-[![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
+[![ci-uh-repcompanion](https://github.com/UH-RepCompanion/RepCompanion-1/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/UH-RepCompanion/RepCompanion-1/actions/workflows/ci.yml)
 
 
 UH RepCompanion is an application that allows users to:
@@ -43,7 +43,7 @@ This walkthrough will guide new users on how to navigate UH Repcompanion, what u
 
 Upon arriving, you will be greeted with the UH RepCompanion landing page, which details what UH RepCompanion is, which should look something like this:
 
-<img src="doc/UH-RepCompanion-2.png">
+<img src="doc/UH-RepCompanion-17.png">
 
 From here, users will be able to either login with a preexisting account or register a new account.
 
@@ -53,32 +53,39 @@ This page also contains a brief overview of what RepCompanion is and how it work
 
 Upon clicking on Login, users will be presented with a page where they can sign in using their UH email:
 
-<img src="doc/UH-RepCompanion-3.png">
+<img src="doc/UH-RepCompanion-12.png">
 
 ### Register Page
 
 Alternatively if a user is new to the application, users can click on Register, which will direct them to a page where they can sign up and enter some basic info for their profile:
 
-<img src="doc/UH-RepCompanion-4.png">
+<img src="doc/UH-RepCompanion-13.png">
+<img src="doc/UH-RepCompanion-14.png">
 
 
 ### Home Page (Logged In)
 
-Once logged in, you will be directed to the home page and within the navbar you will be able to see links for the Event page, the Finder page, and the About Us page.
+Once logged in, you will be directed to the home page, with links to the Events page and the Finder page. Within the navbar you will also be able to see links for the Event page, the Finder page, and the About Us page.
 
-<img src="doc/UH-RepCompanion-5.png">
+<img src="doc/UH-RepCompanion-18.png">
 
 ### Profile Page
 
 When logged in, you can navigate to the Profile page in the top left dropdown menu which will allow you to view and edit your profile for the application. User profiles contain the user's RepCompanion information, social links, and a weekly calendar that allows the user to keep track of their personal routines.
 
-<img src="doc/UH-RepCompanion-6.png">
+<img src="doc/UH-RepCompanion-15.png">
+
+### Schedule Page
+
+Here users can keep track of their workouts via a personal schedule that can align with any events they have created, which will be reflected on their profile page.
+
+<img src="doc/UH-RepCompanion-16.png">
 
 ### Finder Page
 
 The Finder page allows users to filter through other users profiles based on search fields related to their interests in workouts. This page will also display other aspects of user's profiles such as their experience when it comes to working out (labeled as "Level"), an activity bar to show how active they are with their routine, and the option to contact that user:
 
-<img src="doc/UH-RepCompanion-7.png">
+<img src="doc/UH-RepCompanion-19.png">
 
 ### Event Page
 
@@ -90,7 +97,7 @@ The Event Page allows users to view any upcoming workout events made by other UH
 
 The Add Event can be found within a dropdown menu from the Event tab located within the navbar, letting users add events to the Event Page. To create an event, enter the date for the workout event, a description of the workout, and what equipment will be incorporated into the workout.
 
-<img src="doc/UH-RepCompanion-9.png">
+<img src="doc/UH-RepCompanion-20.png">
 
 ### Community Feedback
 
