@@ -157,6 +157,31 @@ I20240421-14:14:03.076(-10)? Defining profile cmoore@hawaii.edu
 I20240421-14:14:03.187(-10)? Defining profile achriste@hawaii.edu
 I20240421-14:14:03.459(-10)? Defining profile leighj@hawaii.edu
 I20240421-14:14:03.735(-10)? Defining profile sin8@hawaii.edu
+I20240508-20:45:34.465(-10)? Defining profile samdoan1@hawaii.edu
+I20240508-20:45:34.830(-10)? Defining profile mcape@hawaii.edu
+I20240508-20:45:34.917(-10)? Defining profile darius01@gmail.com
+I20240508-20:45:35.015(-10)? Defining profile cashb15@gmail.com
+I20240508-20:45:35.112(-10)? Defining profile tamuras6@hawaii.edu
+I20240508-20:45:35.201(-10)? Defining profile kavehesfahni@gmail.com
+I20240508-20:45:35.296(-10)? Defining profile athlu808@gmail.com
+I20240508-20:45:35.386(-10)? Defining profile sammysmith@hawaii.edu
+I20240508-20:45:35.474(-10)? Defining profile a_parayn2@gmail.com
+I20240508-20:45:35.562(-10)? Defining profile markuswu02@gmail.com
+I20240508-20:45:35.648(-10)? Defining profile tessiec@gmail.com
+I20240508-20:45:35.736(-10)? Defining profile julietomas12@gmail.com
+I20240508-20:45:35.831(-10)? Defining profile evanmonk9@gmail.com
+I20240508-20:45:35.919(-10)? Defining profile victoriam12@gmail.com
+I20240508-20:45:36.010(-10)? Defining profile kennynguyen408@gmail.com
+I20240508-20:45:36.103(-10)? Creating the default events
+I20240508-20:45:36.103(-10)? Defining event johnson@hawaii.edu
+I20240508-20:45:36.215(-10)? Defining event evanmonk9@gmail.com
+I20240508-20:45:36.220(-10)? Defining event a_parayn2@gmail.com
+I20240508-20:45:36.229(-10)? Defining event mcape@hawaii.edu
+I20240508-20:45:36.233(-10)? Defining event darius01@gmail.com
+I20240508-20:45:36.236(-10)? Defining event kennynguyen408@gmail.com
+I20240508-20:45:36.241(-10)? Creating the default schedules
+I20240508-20:45:36.241(-10)? Defining schedule johnson@hawaii.edu
+I20240508-20:45:36.468(-10)? Defining schedule johnson@hawaii.edu
 => Started your app.
 
 => App running at: http://localhost:3000/
