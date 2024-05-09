@@ -94,7 +94,7 @@ The Add Event can be found within a dropdown menu from the Event tab located wit
 
 ### Community Feedback
 
-#### Ratings:
+### Ratings:
 <span style="color: gold;">★☆☆☆☆</span> (1 out of 5 stars)
 
 <span style="color: gold;">★★☆☆☆</span> (2 out of 5 stars)
